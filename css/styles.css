@@ -169,6 +169,9 @@ button:focus,
   .grid {
     grid-template-columns: 1fr;
   }
+  .page-header__item{
+    width: 100px;
+  }
 }
 
 @media all and (min-width: 500px) and (max-width: 750px) {

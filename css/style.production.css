@@ -58,7 +58,7 @@ a: active {
 	-webkit-transition: 0.2s opacity;
 	-o-transition: 0.2s opacity;
 	transition: 0.2s opacity;
-	
+
 }
 
 button
@@ -75,7 +75,7 @@ button
 	-webkit-transition: 0.2s opacity;
 	-o-transition: 0.2s opacity;
 	transition: 0.2s opacity;
-	
+
 }
 
 button:hover, button:focus,
@@ -202,6 +202,9 @@ margin: 0 auto;
 .grid {
 	-ms-grid-columns: 1fr;
 	grid-template-columns: 1fr;
+}
+.page-header__item{
+  width: 100px;
 }
 }
 
